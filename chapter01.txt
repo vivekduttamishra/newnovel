@@ -2,7 +2,8 @@ This is the first chapter of my book that starts on the \
 10th day of Kurukshetra battle and Bhishm is dying
 
 
-change #1 Added Modified
+
 
 change #2 Added. Modified in Change#1
 
+change #3 Added Removed Change#1 text
